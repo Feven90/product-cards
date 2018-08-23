@@ -10,8 +10,8 @@
     border: 2px solid;
     width: 30%;	
     /* background-color: aliceblue; */
-    /* background-color: darksalmon; */
-    background-color: #FBC02D;
+    background-color: darksalmon; 
+    /* background-color: #FBC02D; */
     margin: 1%;
     box-shadow: 10px 5px 5px black; 
 } 
@@ -30,9 +30,9 @@ h1 {
 }
 
 .available {
-    /* background-color: antiquewhite; */
-    /* background-color: aqua; */
-    background-color: chocolate;
+     background-color: antiquewhite; 
+     /* background-color: aqua;  */
+    /* background-color: chocolate; */
 }
 .paragraph1, .paragraph2, .paragraph3 {
     padding: 0px 10px;
