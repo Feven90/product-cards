@@ -1,0 +1,38 @@
+
+.container {
+    display: flex;
+    flex-direction: row;
+	flex-wrap: wrap;
+	
+    
+}
+
+.product-card {
+    justify-content: center;
+    border: 1px solid;
+    width: 30%;	
+    background-color: darksalmon;
+    margin: 1%;
+    box-shadow: 10px 5px 5px black; 
+}
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;   
+  
+}
+h1 {
+    border-bottom: 1px solid;
+    text-align: center;
+    
+}
+.available {
+    background-color: antiquewhite;
+}
+.paragraph1, paragrahp2 {
+    padding: 0px 10px;
+    font-weight: bold;
+    line-height: .2;
+}
