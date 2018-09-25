@@ -7,7 +7,7 @@ It gave me a chance to practice on my css skills specialy flex-boxy some more.
 
 ## Screenshots
 
-​![main screenshot](https://github.com/Feven90/product-cards/blob/master/img/product-card.JPG)
+​![main screenshot](https://github.com/Feven90/product-cards/blob/master/img/product-card.jpg)
 
 
 ## How to run this project:
