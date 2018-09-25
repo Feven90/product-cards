@@ -1,4 +1,4 @@
-# Study Group Assignment 1
+# Product cards
 This was an individual exercise to build a page with multipl cards.  
 
 The product cards page has one page which lists all differnt kinds of computers available and information about their price and size.
