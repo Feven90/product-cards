@@ -7,8 +7,7 @@ It gave me a chance to practice on my css skills specialy flex-boxy some more.
 
 ## Screenshots
 
-​![main screenshot](./img/product-card.jpg)
-
+![main page](img/product-card.jpg)
 
 
 ## How to run this project:
